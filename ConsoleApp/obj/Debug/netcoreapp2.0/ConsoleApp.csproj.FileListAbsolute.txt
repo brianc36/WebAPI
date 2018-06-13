@@ -1,0 +1,10 @@
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\brian\Documents\Projects\WebAPI\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb

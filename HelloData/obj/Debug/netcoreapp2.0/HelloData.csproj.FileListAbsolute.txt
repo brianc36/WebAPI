@@ -1,0 +1,12 @@
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\bin\Debug\netcoreapp2.0\HelloData.deps.json
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\bin\Debug\netcoreapp2.0\HelloData.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\bin\Debug\netcoreapp2.0\HelloData.pdb
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\bin\Debug\netcoreapp2.0\HelloDomain.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\bin\Debug\netcoreapp2.0\HelloDomain.pdb
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.csprojAssemblyReference.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.AssemblyInfo.cs
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.csproj.CopyComplete
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloData\obj\Debug\netcoreapp2.0\HelloData.pdb

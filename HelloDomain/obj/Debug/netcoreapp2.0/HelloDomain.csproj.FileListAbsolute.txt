@@ -1,0 +1,9 @@
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\bin\Debug\netcoreapp2.0\HelloDomain.deps.json
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\bin\Debug\netcoreapp2.0\HelloDomain.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\bin\Debug\netcoreapp2.0\HelloDomain.pdb
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\obj\Debug\netcoreapp2.0\HelloDomain.csprojAssemblyReference.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\obj\Debug\netcoreapp2.0\HelloDomain.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\obj\Debug\netcoreapp2.0\HelloDomain.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\obj\Debug\netcoreapp2.0\HelloDomain.AssemblyInfo.cs
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\obj\Debug\netcoreapp2.0\HelloDomain.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloDomain\obj\Debug\netcoreapp2.0\HelloDomain.pdb

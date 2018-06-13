@@ -1,0 +1,16 @@
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloAPI.deps.json
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloAPI.runtimeconfig.json
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloAPI.runtimeconfig.dev.json
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloAPI.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloAPI.pdb
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloData.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloDomain.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloData.pdb
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\bin\Debug\netcoreapp2.0\HelloDomain.pdb
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.csprojAssemblyReference.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.AssemblyInfo.cs
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.csproj.CopyComplete
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.dll
+C:\Users\brian\Documents\Projects\WebAPI\HelloAPI\obj\Debug\netcoreapp2.0\HelloAPI.pdb
